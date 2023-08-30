@@ -14,7 +14,6 @@
 	<name>spring-microservice-service-registry</name>
 	<description>spring microservice service registry demo</description>
 	<properties>
-		<java.version>1.8</java.version>
 		<spring-cloud.version>2021.0.8</spring-cloud.version>
 	</properties>
 	<dependencies>
